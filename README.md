@@ -98,3 +98,7 @@ Cherrington, E. (2026). PACE OCI data Toolkit (Version 1.0.0.6) [Computer softwa
 ## Contact information
 
 If you have any questions, feel free to contact Emil Cherrington by :envelope_with_arrow: email: **emil.cherrington [at] uah.edu**.
+
+
+This application is distributed by EarthRISE under the terms of the GPLv3 License. See
+[LICENSE](https://github.com/NASA-EarthRISE/earthrise-toolkit_PACE_OCI_Toolkit/blob/main/LICENSE) in this directory for more information.
